@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yannick463
+- 👋 Hi, I’m @Yannick
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning ethical hacking
 - 💞️ I’m looking to collaborate on programming & ethical hacker
