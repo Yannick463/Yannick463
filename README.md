@@ -5,7 +5,7 @@
 💻 **Tecnologias**:  
 - Front-end: HTML, CSS, JavaScript, React  
 - Back-end: Node.js, PHP, Python, C#, C  
-- Banco de Dados: PostgreSQL  
+- Banco de Dados: PostgreSQL, MYSQL 
 - Outros: Git, GitHub, Web3, API REST  
 - Redes & Linux
 
