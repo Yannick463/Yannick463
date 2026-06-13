@@ -84,6 +84,7 @@ Também continuo a aprofundar conhecimentos em cibersegurança, bases de dados, 
 
 📫 **Conecte-se comigo:**  
 [LinkedIn](https://www.linkedin.com/in/yannick-martins-3b3954314/)
+[Portfólio](https://yannick463.github.io/portfolio/#operating-mode)
 
 
 <!---
